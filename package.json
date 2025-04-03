@@ -1,0 +1,14 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node challenges/meduim/BSTIterator.js",
+    "alg": "node algorithms/morris-traversal.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
