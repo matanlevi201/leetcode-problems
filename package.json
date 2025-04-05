@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node challenges/meduim/BSTIterator.js",
+    "dev": "node challenges/meduim/binaryTreeRightSideView.js",
     "alg": "node algorithms/morris-traversal.js"
   },
   "keywords": [],
