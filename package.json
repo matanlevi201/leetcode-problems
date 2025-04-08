@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node challenges/meduim/binaryTreeRightSideView.js",
-    "alg": "node algorithms/morris-traversal.js"
+    "dev": "node challenges/meduim/validateBinarySearchTree.js",
+    "alg": "node algorithms/dfs-traversal.js"
   },
   "keywords": [],
   "author": "",

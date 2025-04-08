@@ -14,7 +14,7 @@ const inorder = function (root) {
       console.log(curr.val);
       curr = curr.right;
     } else {
-      const prev = curr.left;
+      let prev = curr.left;
       while (prev.right && prev.right !== curr) {
         prev = prev.right;
       }
